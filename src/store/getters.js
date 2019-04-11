@@ -1,0 +1,1 @@
+export const newName = state => state.resturantName;
